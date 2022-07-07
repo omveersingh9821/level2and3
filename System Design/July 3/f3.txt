@@ -10,7 +10,6 @@ class Main {
     void fun(){
         System.out.println("P fun");
     }
-
     void fun1(){
         System.out.println("P fun1");
     }
@@ -23,13 +22,10 @@ class Main {
     void fun(){
         System.out.println("C fun");
     }
-
     void fun2(){
         System.out.println("C fun2");
     }
   }
-  
-  
     
   public static void main(String[] args) throws NumberFormatException, IOException {
       // case 2 => C and C
